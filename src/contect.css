@@ -1,0 +1,16 @@
+body{
+    background-image: url('https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.411);
+    background-blend-mode: darken;
+    color: white;
+}
+
+form{
+    border: 1px solid white;
+    padding: 30px 20px 15px 0px;
+    background-color:rgba(0, 0, 0, 0.411);
+    background-blend-mode: darken;
+    margin-top: 100px;
+}
